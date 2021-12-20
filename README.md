@@ -4,34 +4,7 @@
 
 <html>
     <head>
-        <style>
-            .box {
-                width: 350px;
-                height: 348px;
-                border: 10px inset #442104a9;
-            }
-            img {
-                width: 100%;
-                height: 100%;
-            }
-            .logo{
-                width: 50%;
-                height: 50%;
-            }
-            #MASalign{
-	            width: 85%;
-	            margin: 10px auto;
-	            padding: 10px;
-	            border: 1px solid #cccccc;
-            }
-            .alignleft{
-                    float: left;
-            }
-            .alignright {
-                float: right;
-            }                    
-        </style>
-
+       
     </head> 
     
 
@@ -52,8 +25,6 @@
         <img src="https://github.com/fabianshenk/fabian.shenk/blob/233322823b61c6799a1e37eea531e9e631d1f2b6/IMG-20160401-WA0006%20(2).jpeg"  title="This is the Fabian Shenk">
     </p></div>
     
-    </div>
-
 <hr 10px double > 
 <br>
 <h2><b>Education</b></h2>
