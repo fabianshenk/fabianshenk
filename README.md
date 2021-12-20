@@ -54,14 +54,6 @@
     
     </div>
 
-
-    <p><h1>Fabian B. Shenk</h1>
-        <h5>
-            <a href="mailto:fshenk@asu.edu">Send email</a>
-    <br>
-            <a href="https://www.linkedin.com/in/fabianshenk/" target="_blank"> Click to visit Fabian's profile</a>
-        </h5>
-    </p>
 <hr 10px double > 
 <br>
 <h2><b>Education</b></h2>
