@@ -3,11 +3,6 @@
 <!DOCTYPE html>
 
 <html>
-    <head>
-       
-    </head> 
-    
-
 
 <body>
     <p><div>
@@ -53,7 +48,7 @@
 <br>
 <h2><b>Experience</b></h2>
 <ol>
-    <li><b> GIS Technician, Pima County Internet Technology Department</b>	<p class="alignright"><i>August 2020 to Present</i></p><br>
+    <li><b> GIS Technician, Pima County Internet Technology Department</b>	<p class="alignright"><i>August 2020 to March 2021</i></p><br>
         <ul>
             Interpret As-Built Drawings from current to historical records and transitioned this understanding over nodes and lines to model work installed under contract within a GIS system<br>
             Support different departments with tasks to complete and perform to expectations set by these different departments to complete the tasks accordingly and efficiently<br>
