@@ -43,9 +43,7 @@
         </div>
         <div style="clear: both;"></div>
     </li>
-    
-    </ul>
-<br>
+</br>
 <h2><b>Experience</b></h2>
 <ol>
     <li><b> GIS Technician, Pima County Internet Technology Department</b>	<p class="alignright"><i>August 2020 to March 2021</i></p><br>
